@@ -1,0 +1,166 @@
+body {
+    font-family: 'Tahoma', 'Open sans' 'sans-serif';
+    background:white; }
+
+p { color: #111111 }
+
+
+
+.menu { 
+    background-color: saddlebrown;
+}
+
+.footer p {
+    color: #f5f5f5;
+}
+
+.menu {
+    background-color:burlywood;
+    overflow: auto; }
+    
+    .main {
+    overflow: auto;
+    background-color: #f5f5f5}
+
+    .photos {
+    overflow: auto;
+    background-color:#f5f5f5 }
+    .footer {
+    overflow: auto;
+    background-color: brown}
+ 
+
+
+
+.menu {
+    background-color: burlywood;
+    overflow: auto;
+}
+
+.main {
+    overflow: auto;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.photos {
+    overflow: auto;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+.footer  {
+    overflow: auto;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: center;
+    background-color: #777777;
+}
+
+.photos img {
+    border: 2px solid burlywood;
+    border-radius: 6px;
+    margin: 2px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.menu ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a {
+    display: inline-block;
+    height: auto;
+    width: 150px;
+    color: #333333;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.menu li a:hover {
+    background-color: #d6d599;
+}
+
+.footer ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.footer li {
+    display: inline-block;
+    text-align: center;
+}
+
+.footer li a {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    color: #000000;
+    background-color: #422d00;
+    padding: 4px;
+    margin: 4px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer li a:hover {
+    background-color: #d5d699;
+}
+
+.hl {
+    color: burlywood;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.main h2 {
+    overflow: auto;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    background-color: #d6d599;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.photos h2 {
+    color: burlywood;
+    font-size: 28px;
+}
+
+.footer h2 {
+    color: #d6d599;
+}
+
+.footer p {
+    color: #f5f5f5;
+}
+
+
